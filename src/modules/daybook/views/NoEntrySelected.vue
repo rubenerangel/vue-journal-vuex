@@ -1,6 +1,6 @@
 <template>
   <div class="d-flex justify-content-center">
-    <h1 class="align-self-center">Not there Selected</h1>
+    <h1 class="align-self-center">Not there are Selected</h1>
   </div>
 
   <Fab />
